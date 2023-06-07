@@ -1,4 +1,4 @@
-# Personal-Projects : https://kkunal026.github.io/Personal-Projects/
+# Personal-Projects 
 Collection of my personal projects
 
 1. Food-App : https://kkunal026.github.io/Personal-Projects/Food_app
